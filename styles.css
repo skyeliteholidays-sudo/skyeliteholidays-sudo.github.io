@@ -317,6 +317,24 @@ nav a:hover::after {
     .hero-buttons {
         flex-direction: column;
     }
+
+    header .logo img {
+        width: 2.5rem;
+        height: 2.5rem;
+    }
+
+    .logo-title {
+        font-size: 1.2rem;
+    }
+
+    .logo-tagline {
+        font-size: 0.6rem;
+    }
+
+    .logo-text {
+        min-width: auto;
+        padding: 0.2rem 0.5rem;
+    }
 }
 
 /* Sections Common */
